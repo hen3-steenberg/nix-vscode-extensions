@@ -1,7 +1,7 @@
 {
   inputs = {
     flakes.url = "github:deemp/flakes";
-    nixpkgs.url = "github:nixos/nixpkgs/23ff7d9dc4f3d553939e7bfe0d2667198f993536";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-24.11";
   };
   outputs =
     inputs:
